@@ -17,6 +17,7 @@ Even though only Windows is currently supported, adding support for Linux and Ma
 4. Download and install Neovim for Windows. Make sure it's in your path. 
   * Instructions: https://github.com/neovim/neovim/wiki/Installing-Neovim 
 5. Download NeoSFML (link coming soon) and run it.
+6. Keep in mind that NeoSFML comes with a utility called pipelist, employed by launcher.py for finding a running instance of Neovim. Especially keep this in mind if you want to build things yourself.
 
 ##Compilation
 * Boost's Locale library

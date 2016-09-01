@@ -1,6 +1,8 @@
 # NeoSFML
 Neovim GUI based on SFML
 
+Even though only Windows is currently supported, adding support for Linux and Mac is planned (code was written with portability in mind).
+
 ##Installation instructions
 1. Install Python 3.3.5.
   * Download at https://www.python.org/download/releases/3.3.5/

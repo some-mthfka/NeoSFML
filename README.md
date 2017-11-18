@@ -3,7 +3,7 @@ Neovim GUI based on SFML
 
 Even though only Windows is currently supported, adding support for Linux and Mac is planned (code was written with portability in mind).
 
-##Installation instructions
+## Installation instructions
 1. Install Python 3.3.5.
   * Download at https://www.python.org/download/releases/3.3.5/
 
@@ -19,7 +19,7 @@ Even though only Windows is currently supported, adding support for Linux and Ma
 5. Download neosfml_0_6.zip from https://github.com/meatich/NeoSFML/releases/tag/0.6, extract and run it.
 6. Keep in mind that NeoSFML comes with a utility called pipelist, employed by launcher.py for finding a running instance of Neovim. Especially keep this in mind if you want to build things yourself.
 
-##Compilation
+## Compilation
 * Boost's Locale library
 * Python33
 * SFML
